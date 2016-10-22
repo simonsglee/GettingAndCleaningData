@@ -1,10 +1,10 @@
 # Getting And Cleaning Data Project
 Simon Lee
 
-# Overview
+## Overview
 The goal of this project is to demonstrate the ability to clean and prepare a data set for later analysis.
 
-# Script
+## Script
 The `run_analysis` R script does the following:
 
 1. Download UCI HAR Dataset and unzip the content into the working directory
