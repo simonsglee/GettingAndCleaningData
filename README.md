@@ -3,8 +3,6 @@ Simon Lee
 
 # Overview
 The goal of this project is to demonstrate the ability to clean and prepare a data set for later analysis.
-The description of the data set used for this project can be found [here](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
-The download link for data set can be found [here](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
 
 # Script
 The `run_analysis` R script does the following:

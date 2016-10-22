@@ -1,13 +1,13 @@
 # CodeBook for Getting And Cleaning Data course project
 ## Raw Data
 The data comes from an experiment where thirty subjects performed six activities wearing a smart phone on the waist.
-The description of the data set used for this project can be found [here](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
-The download link for data set can be found [here](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
+The description of the data set used for this project can be found [here](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
+The download link for data set can be found [here](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip).
 
 ## Variables
-*`X_train`, `X_test`: contain feature measurements
-*`Y_train`, 'Y_test`: contains activity descriptions corresponding to each row
-*`subject_train`, `subject_test`: contain subject id number corresponding to each row
+* `X_train`, `X_test`: contain feature measurements
+* `Y_train`, `Y_test`: contains activity descriptions corresponding to each row
+* `subject_train`, `subject_test`: contain subject id number corresponding to each row
 * `features`: contain descriptive name of all the feature measurements
 * `features_names`: descriptive names of measurements after "-" character is replaced with "_" and "()" are removed for readability
 * `activity_labels`: contain descriptive name of all the activities and their corresponding number from 1 to 6
